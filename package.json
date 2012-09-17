@@ -1,0 +1,12 @@
+{
+  "name": "jslisp",
+  "description": "lisp interpreter for javascript",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+      "mocha": "*",
+      "should": "*"
+  }
+}
